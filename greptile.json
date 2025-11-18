@@ -8,7 +8,7 @@
     "syntax",
     "style"
   ],
-  "instructions": "make all your comments in Dutch",
+  "instructions": "",
   "excludeAuthors": [
     "dependabot[bot]",
     "renovate[bot]"
